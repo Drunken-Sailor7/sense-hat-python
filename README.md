@@ -8,7 +8,9 @@ A collection of little python scripts written for the Raspberry Pi Sense HAT
 
 ## Usage
 To run a select script on your own Raspberry Pi, open the terminal and navigate to desired folder. Then download it and run it, replacing 'example.py' with your script name of choice.
-```$wget https://raw.githubusercontent.com/Drunken-Sailor7/sense-hat-python/master/example.py
+
+```
+$wget https://raw.githubusercontent.com/Drunken-Sailor7/sense-hat-python/master/example.py
 $python3 example.py
 ```
 
